@@ -18,3 +18,24 @@
 .btn-brand {
   background-color: #7B9A41;
   color: white; }
+
+.hero-area {
+  position: relative;
+  margin-bottom: 8em;
+  height: 450px;
+  background-color: #2c2e72;
+  z-index: 1;
+  background-image: url(../images/saltlick-edit.jpg);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: cover;
+  /*overflow: hidden; */
+  /*background-attachment: fixed; */ }
+  .hero-area .container .row {
+    position: relative; }
+    .hero-area .container .row .col {
+      position: absolute;
+      bottom: -550px; }
+      .hero-area .container .row .col img {
+        width: 100%;
+        height: auto; }
