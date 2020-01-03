@@ -1,0 +1,20 @@
+* {
+  -webkit-box-sizing: none;
+  box-sizing: none; }
+
+.text-brand {
+  color: #7B9A41; }
+
+.navbar {
+  background-color: #7B9A41; }
+
+.navbar-brand {
+  margin: 0 auto;
+  padding: 30px 0; }
+
+.btn {
+  border-radius: 2px; }
+
+.btn-brand {
+  background-color: #7B9A41;
+  color: white; }
