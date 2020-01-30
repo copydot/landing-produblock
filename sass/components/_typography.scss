@@ -1,3 +1,12 @@
-.text-brand {
-  color: $brand-color;
+body { 
+  color: $body_color; 
+}
+
+.text_brand {
+  color: $brand_primary_color;
+}
+
+ul.lead {
+  font-size: 140%;
+  font-weight: 400;
 }

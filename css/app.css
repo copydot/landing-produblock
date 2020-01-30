@@ -2,8 +2,15 @@
   -webkit-box-sizing: none;
   box-sizing: none; }
 
-.text-brand {
-  color: #7B9A41; }
+body {
+  color: #4d4851; }
+
+.text_brand {
+  color: #2c2e72; }
+
+ul.lead {
+  font-size: 140%;
+  font-weight: 400; }
 
 .navbar {
   background-color: #7B9A41; }
@@ -15,13 +22,13 @@
 .btn {
   border-radius: 2px; }
 
-.btn-brand {
+.btn_brand {
   background-color: #7B9A41;
   color: white; }
 
 .hero-area {
   position: relative;
-  margin-bottom: 8em;
+  margin-bottom: 3em;
   height: 450px;
   background-color: #2c2e72;
   z-index: 1;
@@ -35,7 +42,13 @@
     position: relative; }
     .hero-area .container .row .col {
       position: absolute;
-      bottom: -550px; }
+      bottom: -540px; }
       .hero-area .container .row .col img {
         width: 100%;
         height: auto; }
+
+.bg_form {
+  background-color: #d9d9d9; }
+
+.wrapper_form {
+  background-color: #f2f2f2; }
